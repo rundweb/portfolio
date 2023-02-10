@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'segoe';
+    src: url('../../assets/font/Segoe\ UI\ Bold.ttf');
+}
+
+.logo-text{
+    font-family: 'segoe' !important;
+}
+
+.logo-nav{
+    width: 35px;
+    margin-right: 16px;
+}
